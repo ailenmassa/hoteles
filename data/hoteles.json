@@ -1,0 +1,75 @@
+{
+  "hotels": [
+    {
+      "id": "1",
+      "name": "Hotel Kakslauttanen",
+      "description": "Este hotel ofrece habitaciones únicas en formas de iglús pero hechas de cristal transparente, ideal para poder ver las auroras boreales desde tu cama.",
+      "location": "FINLANDIA",
+      "images": "https://losviajesdemary.com/wp-content/uploads/2017/05/hoteles-ex%C3%B3ticos-2.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Skylodge Adventure Suites",
+      "description": "Este escalofriante hotel se encuentra en pleno Valle Sagrado en el Cuzco. Las habitaciones son cápsulas transparentes que se encuentran a 400 metros de altura. Para llegar tienes solo dos opciones, ir por un puente colgante o llegar en tirolesa. Cada módulo tiene 4 camas, un comedor y un baño privado. Si quieres dormir en este hotel no puedes sufrir de vértigo!",
+      "location": "PERÚ",
+      "images": "https://losviajesdemary.com/wp-content/uploads/2017/05/hoteles-ex%C3%B3ticos-los-viajes-de-mary-1.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Giraffe Manor",
+      "description": "En sí, es un hotel común y corriente en cuanto a la arquitectura se refiere, lo diferente está en que todos los días cuando estés en el restaurante o en tu habitación si por descuido dejaste la ventana abierta las jirafas asomarán su cabeza a curiosear qué estas haciendo.Es un lugar mágico donde los huéspedes tienen contacto natural con estos hermosos animales.",
+      "location": "SUDÁFRICA",
+      "images": "https://losviajesdemary.com/wp-content/uploads/2017/05/hoteles-ex%C3%B3ticos-los-viajes-de-mary-5.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Hotel Costa Verde 727 Fuselage",
+      "description": "avión-hotel, ubicado en la selva de Costa Rica. Este exclusivo hotel solo puede alojar a 5 personas como máximo, así que haz tu reserva con tiempo si quieres disfrutar de estar a la altura de las copas de los árboles viendo a los monos, perezosos, tucanes y otros animales de la selva.",
+      "location": "COSTA RICA",
+      "images": "https://losviajesdemary.com/wp-content/uploads/2017/05/hoteles-ex%C3%B3ticos-los-viajes-de-mary-8.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Manta Resort",
+      "description": "Bajo el mar, bajo el mar, vive contenta siendo sirena…si quieres sentirte como la sirenita o como un pez bajo el mar, el hotel Manta Resort ubicado en la Isla de Pemba en Tanzania es para ti. Ofrece habitaciones sumergidas a 4 metros bajo el mar. Te imaginas despertar y ver todo el mundo que hay dentro del océano desde la comodidad de tu habitación?",
+      "location": "TANZANIA ",
+      "images": "https://losviajesdemary.com/wp-content/uploads/2017/05/hoteles-ex%C3%B3ticos-los-viajes-de-mary-9.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Hotel Can Sleep",
+      "description": "Estoy segura que Homero Simpson estaría feliz en este hospedaje. Este hotel se encuentra en la lista de los 10 hoteles más exóticos del mundo debido a sus habitaciones poco convencionales construidas en forma de latas de cerveza de 3.80 metros de altura. Cada habitación tiene dos pisos; en la planta baja hay un minibar repleto de cerveza y en la segunda planta una cama redonda.",
+      "location": "DINAMARCA",
+      "images": "https://losviajesdemary.com/wp-content/uploads/2017/05/hoteles-ex%C3%B3ticos-los-viajes-de-mary-11.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Hotel Palacio de Sal",
+      "description": "¿Quién no sueña con conocer el sorprendente Salar de Uyuni? Este increíble Hotel Palacio de Sal es el primer hotel 100% hecho de sal y está ubicado en el mismo desierto del blanco salar. Las habitaciones son iglús y todo el mobiliario, incluida la cama están hechas de sal.",
+      "location": "BOLIVIA",
+      "images": "https://losviajesdemary.com/wp-content/uploads/2017/05/hoteles-ex%C3%B3ticos-los-viajes-de-mary-12.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Dog Bark Parik Inn",
+      "description": "En el puesto número 8 se encuentra el hotel en forma de Beagle, ubicado en Idaho. Su particular diseño llama la atención a todos los transeúntes que recorren la carretera de Cottonwood. Dos perros Beagle gigantes reciben a todos los huéspedes que buscan hospedarse dentro de estos canes. No me queda duda que los que lo construyeron aman a sus mascotas!",
+      "location": "ESTADOS UNIDOS ",
+      "images": "https://losviajesdemary.com/wp-content/uploads/2017/05/hoteles-ex%C3%B3ticos-los-viajes-de-mary-14.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Capsule Inn",
+      "description": "¿Sufres de claustrofobia? Si tu respuesta es no, entonces estás apto para dormir en este hotel, de lo contrario no te lo recomiendo. Las habitaciones de este curioso hotel en Japón son extremadamente pequeñas. En estas cápsulas solo podrás dormir sin duda alguna. Olvídate de las comodidades de las grandes suites.",
+      "location": "JAPÓN",
+      "images": "https://losviajesdemary.com/wp-content/uploads/2017/05/hoteles-ex%C3%B3ticos-los-viajes-de-mary-16.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Montaña Mágica Lodge",
+      "description": "Este mágico y verde Hotel Montaña Mágica Lodge esta ubicado en la reserva biológica de Huilo – Huilo en la Patagonia chilena. El diseño se ha inspirado en una montaña para no romper con el ambiente del entorno. Todas las habitaciones son hechas de madera y tienen una vista privilegiada del bosque.",
+      "location": "CHILE",
+      "images": "https://losviajesdemary.com/wp-content/uploads/2017/05/hoteles-ex%C3%B3ticos-los-viajes-de-mary-17.jpg"
+    }
+   
+  ]
+}
